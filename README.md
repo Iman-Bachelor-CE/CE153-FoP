@@ -1,9 +1,9 @@
 # CE153-FoP
-Solutions to Dr. Fakouri's CE153: Fundamentals of Programming (Sharif University of Technology - Fall 2020) Assignments
+Solutions to Dr. Reza Fakouri's CE153: Fundamentals of Programming (Sharif University of Technology - Fall 2020) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments and exams, course slides, and other useful resources for the CE153: Fundamentals of Programming course at Sharif University of Technology, Fall 2020, taught by Dr. Fakouri.
+This repository contains solutions to the assignments and exams, course slides, and other useful resources for the CE153: Fundamentals of Programming course at Sharif University of Technology, Fall 2020, taught by Dr. Reza Fakouri.
 
 ## Table of Contents
 
