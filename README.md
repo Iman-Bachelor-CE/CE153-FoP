@@ -1,4 +1,4 @@
-# CE153-FOP
+# CE153-FoP
 Solutions to Dr. Fakouri's CE153: Fundamentals of Programming (Sharif University of Technology - Fall 2020) Assignments
 
 ## Overview
